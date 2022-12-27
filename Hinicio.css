@@ -1,0 +1,8 @@
+body {background: url('Fondo.jpeg');
+    background-size:cover;
+    background-attachment: fixed;
+}
+.link{
+    text-decoration: none;
+    color: purple;
+}

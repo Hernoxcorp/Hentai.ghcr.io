@@ -1,0 +1,14 @@
+body {
+    background-color: lightgreen;
+}
+
+.video{
+    border: solid 3px greenyellow;
+}
+
+
+.link{
+   text-decoration: none;
+     color: black;
+  font-size: x-large;
+}

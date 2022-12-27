@@ -1,0 +1,10 @@
+body {
+    background-color: lightgreen;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+.imagen{
+    border: solid 5px greenyellow;
+}
